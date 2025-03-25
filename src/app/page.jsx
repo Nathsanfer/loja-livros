@@ -13,7 +13,137 @@ export default function Home() {
 
       <Banner />
 
-      
+      <SectionCards titulo={"Destaques"} id={"highlights"}>
+        <Card
+          capa={"https://m.media-amazon.com/images/I/71KrPChpFXL.jpg"}
+          textoAlt={"Capa do livro Não é como nos filmes"}
+          categoria={"Romance"}
+          titulo={"Não é como nos filmes"}
+          descricao={"Wes e Liz viveram uma história de amor inesquecível e foram juntos para a Universidade da Califórnia. Mas..."}
+        />
+
+        <Card
+          capa={"https://m.media-amazon.com/images/I/71KrPChpFXL.jpg"}
+          textoAlt={"Capa do livro Não é como nos filmes"}
+          categoria={"Romance"}
+          titulo={"Não é como nos filmes"}
+          descricao={"Wes e Liz viveram uma história de amor inesquecível e foram juntos para a Universidade da Califórnia. Mas..."}
+        />
+
+        <Card
+          capa={"https://m.media-amazon.com/images/I/71KrPChpFXL.jpg"}
+          textoAlt={"Capa do livro Não é como nos filmes"}
+          categoria={"Romance"}
+          titulo={"Não é como nos filmes"}
+          descricao={"Wes e Liz viveram uma história de amor inesquecível e foram juntos para a Universidade da Califórnia. Mas..."}
+        />
+
+        <Card
+          capa={"https://m.media-amazon.com/images/I/71KrPChpFXL.jpg"}
+          textoAlt={"Não é como nos filmes"}
+          categoria={"Romance"}
+          titulo={"Não é como nos filmes"}
+          descricao={"Wes e Liz viveram uma história de amor inesquecível e foram juntos para a Universidade da Califórnia. Mas..."}
+        />
+
+        <Card
+          capa={"https://m.media-amazon.com/images/I/71KrPChpFXL.jpg"}
+          textoAlt={"Não é como nos filmes"}
+          categoria={"Romance"}
+          titulo={"Não é como nos filmes"}
+          descricao={"Wes e Liz viveram uma história de amor inesquecível e foram juntos para a Universidade da Califórnia. Mas..."}
+        />
+
+        <Card
+          capa={"https://m.media-amazon.com/images/I/71KrPChpFXL.jpg"}
+          textoAlt={"Não é como nos filmes"}
+          categoria={"Romance"}
+          titulo={"Não é como nos filmes"}
+          descricao={"Wes e Liz viveram uma história de amor inesquecível e foram juntos para a Universidade da Califórnia. Mas..."}
+        />
+
+        <Card
+          capa={"https://m.media-amazon.com/images/I/71KrPChpFXL.jpg"}
+          textoAlt={"Não é como nos filmes"}
+          categoria={"Romance"}
+          titulo={"Não é como nos filmes"}
+          descricao={"Wes e Liz viveram uma história de amor inesquecível e foram juntos para a Universidade da Califórnia. Mas..."}
+        />
+
+        <Card
+          capa={"https://m.media-amazon.com/images/I/71KrPChpFXL.jpg"}
+          textoAlt={"Não é como nos filmes"}
+          categoria={"Romance"}
+          titulo={"Não é como nos filmes"}
+          descricao={"Wes e Liz viveram uma história de amor inesquecível e foram juntos para a Universidade da Califórnia. Mas..."}
+        />
+      </SectionCards>
+
+      <SectionCards titulo={"Lançamentos"} id={"releases"}>
+        <Card
+          capa={"https://m.media-amazon.com/images/I/71KrPChpFXL.jpg"}
+          textoAlt={"Capa do livro Não é como nos filmes"}
+          categoria={"Romance"}
+          titulo={"Não é como nos filmes"}
+          descricao={"Wes e Liz viveram uma história de amor inesquecível e foram juntos para a Universidade da Califórnia. Mas..."}
+        />
+
+        <Card
+          capa={"https://m.media-amazon.com/images/I/71KrPChpFXL.jpg"}
+          textoAlt={"Capa do livro Não é como nos filmes"}
+          categoria={"Romance"}
+          titulo={"Não é como nos filmes"}
+          descricao={"Wes e Liz viveram uma história de amor inesquecível e foram juntos para a Universidade da Califórnia. Mas..."}
+        />
+
+        <Card
+          capa={"https://m.media-amazon.com/images/I/71KrPChpFXL.jpg"}
+          textoAlt={"Capa do livro Não é como nos filmes"}
+          categoria={"Romance"}
+          titulo={"Não é como nos filmes"}
+          descricao={"Wes e Liz viveram uma história de amor inesquecível e foram juntos para a Universidade da Califórnia. Mas..."}
+        />
+
+        <Card
+          capa={"https://m.media-amazon.com/images/I/71KrPChpFXL.jpg"}
+          textoAlt={"Não é como nos filmes"}
+          categoria={"Romance"}
+          titulo={"Não é como nos filmes"}
+          descricao={"Wes e Liz viveram uma história de amor inesquecível e foram juntos para a Universidade da Califórnia. Mas..."}
+        />
+
+        <Card
+          capa={"https://m.media-amazon.com/images/I/71KrPChpFXL.jpg"}
+          textoAlt={"Não é como nos filmes"}
+          categoria={"Romance"}
+          titulo={"Não é como nos filmes"}
+          descricao={"Wes e Liz viveram uma história de amor inesquecível e foram juntos para a Universidade da Califórnia. Mas..."}
+        />
+
+        <Card
+          capa={"https://m.media-amazon.com/images/I/71KrPChpFXL.jpg"}
+          textoAlt={"Não é como nos filmes"}
+          categoria={"Romance"}
+          titulo={"Não é como nos filmes"}
+          descricao={"Wes e Liz viveram uma história de amor inesquecível e foram juntos para a Universidade da Califórnia. Mas..."}
+        />
+
+        <Card
+          capa={"https://m.media-amazon.com/images/I/71KrPChpFXL.jpg"}
+          textoAlt={"Não é como nos filmes"}
+          categoria={"Romance"}
+          titulo={"Não é como nos filmes"}
+          descricao={"Wes e Liz viveram uma história de amor inesquecível e foram juntos para a Universidade da Califórnia. Mas..."}
+        />
+
+        <Card
+          capa={"https://m.media-amazon.com/images/I/71KrPChpFXL.jpg"}
+          textoAlt={"Não é como nos filmes"}
+          categoria={"Romance"}
+          titulo={"Não é como nos filmes"}
+          descricao={"Wes e Liz viveram uma história de amor inesquecível e foram juntos para a Universidade da Califórnia. Mas..."}
+        />
+      </SectionCards>
 
     </div>
   );
