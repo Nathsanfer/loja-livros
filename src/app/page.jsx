@@ -1,9 +1,8 @@
-import Image from "next/image";
-import styles from "./page.module.css";
 import Header from "./components/header";
 import Banner from "./components/banner";
 import Card from "./components/card";
 import SectionCards from "./components/section_cards";
+import Category from "./components/categories";
 
 export default function Home() {
   return (
@@ -78,6 +77,8 @@ export default function Home() {
           descricao={"Wes e Liz viveram uma história de amor inesquecível e foram juntos para a Universidade da Califórnia. Mas..."}
         />
       </SectionCards>
+
+      <Category id={"category"}/>
 
       <SectionCards titulo={"Lançamentos"} id={"releases"}>
         <Card

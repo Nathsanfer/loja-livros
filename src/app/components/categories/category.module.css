@@ -1,0 +1,52 @@
+.sectionCategory {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  margin: auto;
+  height: 15rem;
+}
+
+.titulo {
+    margin-top: 3rem ;
+    font-family: "Merriweather", serif;
+    font-size: 1.5rem;
+}
+
+.categorias {
+    width: 100%;
+    margin: 3rem 0rem;
+    height: 5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.categoria {
+    width: 12%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffffff;
+    border: 2px solid #575B78;
+    border-radius: 8px;
+}
+
+.categoria:hover {
+    background-color: #575B78;
+}
+
+.nomeCategoria {
+    text-align: center;
+    font-size: 1rem;
+    font-weight: 700;
+    color: #000000;
+    font-family: "inter", sans-serif;
+}
+
+.nomeCategoria:hover {
+    color: #ffffff;
+}
