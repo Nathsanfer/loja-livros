@@ -1,0 +1,65 @@
+.card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 13rem;
+    height: 22rem;
+    border-radius: 0.3rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+}
+
+.imageCard {
+    width: 100%;
+    height: 50%;
+    border-radius: 0.3rem;
+    object-fit: cover;
+}
+
+.textCard {
+    width: 100%;
+    height: 50%;
+    margin: 0.5rem;
+    font-family: "Inter", sans-serif;
+}
+
+.categoria {
+    margin-top: 0.4rem;
+    font-size: 10px;
+}
+
+.tituloCard {
+    font-size: 15px;
+    font-weight: 600;
+    margin-top: 0.4rem;
+}
+
+.descricao {
+    font-size: 12px;
+    margin-top: 0.4rem;
+    margin-right: 1rem;
+}
+
+.botaoCard {
+    width: 92%;
+    height: 1.7rem;
+    background-color: transparent;
+    border-radius: 0.3rem;
+    font-size: 12px;
+    font-weight: 600;
+    cursor: pointer;
+    border: 2px solid;  
+    margin-top: 0.4rem;
+    border-color: #585B7A;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.botaoCard:hover {
+    transform: scale(1.05);
+}
+
+.linkBotao {
+    text-decoration: none;
+    color: #000;
+    font-weight: 500;
+}
